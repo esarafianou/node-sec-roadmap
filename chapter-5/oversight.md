@@ -156,7 +156,7 @@ modules are of particular interest to security specialists, but
 shouldn't require security review before developers use them on an
 experimental basis.
 
-There are a many workflows that allows people to work independently
+There are many workflows that allow people to work independently
 and later circle back so that nothing falls through the cracks.
 Below is one that has worked in similar contexts:
 
